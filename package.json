@@ -1,0 +1,27 @@
+{
+  "name": "webpack-vuepress",
+  "version": "1.0.0",
+  "description": "it is first time to study vuepress victory!!!!!!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs --temp .temp",
+    "build": "vuepress build docs",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangjun321/webpack-vuepress.git"
+  },
+  "keywords": [
+    "vuepress"
+  ],
+  "author": "jack pudge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangjun321/webpack-vuepress/issues"
+  },
+  "homepage": "https://github.com/zhangjun321/webpack-vuepress#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
